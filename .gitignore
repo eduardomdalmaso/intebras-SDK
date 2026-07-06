@@ -1,0 +1,23 @@
+# Credentials & Sensitive Configuration
+.env
+credentials_drive.json
+token.json
+
+# Local Progress & Artifacts
+download_progress.json
+.agents/
+__pycache__/
+*.py[cod]
+
+# Large Binaries & Video Recordings
+NetSDK_Win64/
+*.dav
+*.mp4
+*.zip
+*.pdf
+
+# OS/Editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
